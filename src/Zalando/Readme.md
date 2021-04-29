@@ -19,12 +19,12 @@ An array consisting N integers given. We are looking for pairs of elements of th
 
 For example:
 
-A[0] = 3
-A[1] = 5
-A[2] = 6
-A[3] = 3
-A[4] = 3
-A[5] = 5
++ A[0] = 3
++ A[1] = 5
++ A[2] = 6
++ A[3] = 3
++ A[4] = 3
++ A[5] = 5
 
 the function will return (0,3), (0,4), (1,5), (3,4)
 
